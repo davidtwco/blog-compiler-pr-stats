@@ -1,0 +1,1 @@
+INSERT OR IGNORE INTO label (name) VALUES (?1)
