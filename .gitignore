@@ -1,3 +1,6 @@
+/venv
 /target
 /rust
-/db.sqlite
+/data
+/images
+/*.sqlite
